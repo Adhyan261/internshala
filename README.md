@@ -1,6 +1,6 @@
 # internshala
 
-A new Flutter project.
+This is the assigned work for the internship.
 
 ## Getting Started
 
